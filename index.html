@@ -63,12 +63,12 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">
 
-						<h3><a class="isRed" :href="post.link">California</a></h3>
+						<h3><a class="isRed" :href="post.link">{{post.title}}</a></h3>
 
 					</div>
 					<div class="panel-body">
 
-						<img class="img-circle" :src="post.img"> <!-- this is bound to the img slot -->
+						<img class="img-circle" :src="post.img" width=400px> <!-- this is bound to the img slot -->
 						<h4><em>by Nicole Bradshaw</em></h4>
 
 						<p>{{post.body}}</p> <!-- this is bound to the body slot -->
