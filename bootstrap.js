@@ -62,7 +62,7 @@ const app = new Vue({
 
 			new Post(
 				'Bahamas',
-				'http:/www.nassauparadiseisland.com/WhatToDo',
+				'http://www.nassauparadiseisland.com/WhatToDo',
 				'Jane Author',
 				'bahamas.jpg',
 				''
