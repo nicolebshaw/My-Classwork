@@ -46,7 +46,7 @@ const app = new Vue({
 
 			new Post(
 				'Fiji',
-				'https://www.expedia.com/things-to-do/search?location=Fiji&regionId=6023598&kword=what_to_do_in_fiji!e.ZzZz.4990000163884.0.185739614851.what%20to%20do%20in%20fiji.what_to_do_in_fiji&semcid=US.MULTILOB.GOOGLE.SEARCH.TSHOP&gclid=CJDSsa2ajtQCFYF9fgodISsCGw,
+				'https://www.expedia.com/things-to-do/search?location=Fiji&regionId=6023598&kword=what_to_do_in_fiji!e.ZzZz.4990000163884.0.185739614851.what%20to%20do%20in%20fiji.what_to_do_in_fiji&semcid=US.MULTILOB.GOOGLE.SEARCH.TSHOP&gclid=CJDSsa2ajtQCFYF9fgodISsCGw',
 				'Sammie Author',
 				'fiji.jpg', // this is a local image in the same folder as the js script
 				''
