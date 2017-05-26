@@ -54,7 +54,7 @@ const app = new Vue({
 
 			new Post(
 				'Paris',
-				'https://google.com',
+				'www.expedia.com/Things_to_Do',
 				'Bob Author',
 				'paris.jpg',
 				''
@@ -62,7 +62,7 @@ const app = new Vue({
 
 			new Post(
 				'Bahamas',
-				'https://vuejs.org',
+				'www.nassauparadiseisland.com/WhatToDo',
 				'Jane Author',
 				'bahamas.jpg',
 				''
@@ -70,7 +70,7 @@ const app = new Vue({
 
 			new Post(
 				'New York',
-				'https://google.com',
+				'https://www.airbnb.com/things-to-do/new-york',
 				'Anptoght Author',
 				'newyork.jpg',
 				''
