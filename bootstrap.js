@@ -54,7 +54,7 @@ const app = new Vue({
 
 			new Post(
 				'Paris',
-				'www.expedia.com/Things_to_Do',
+				'https://www.expedia.com/Things_to_Do',
 				'Bob Author',
 				'paris.jpg',
 				''
@@ -62,7 +62,7 @@ const app = new Vue({
 
 			new Post(
 				'Bahamas',
-				'www.nassauparadiseisland.com/WhatToDo',
+				'http:/www.nassauparadiseisland.com/WhatToDo',
 				'Jane Author',
 				'bahamas.jpg',
 				''
