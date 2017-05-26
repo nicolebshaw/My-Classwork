@@ -38,7 +38,7 @@ const app = new Vue({
 			// constructed Post item
 			new Post(
 				'California', 		// this is the TITLE place in the class
-				'https://google.com',	// this is the LINK place in the class
+				'https://www.tripadvisor.com/Attractions-g28926-Activities-California.html',	// this is the LINK place in the class
 				'An Author',			// this is the AUTHOR place in the class
 				'hollywood.jpg',	// this is the IMAGE place in the class
 				'' // this is the BODY place in the class
@@ -46,7 +46,7 @@ const app = new Vue({
 
 			new Post(
 				'Fiji',
-				'https://vuejs.org',
+				'https://www.expedia.com/things-to-do/search?location=Fiji&regionId=6023598&kword=what_to_do_in_fiji!e.ZzZz.4990000163884.0.185739614851.what%20to%20do%20in%20fiji.what_to_do_in_fiji&semcid=US.MULTILOB.GOOGLE.SEARCH.TSHOP&gclid=CJDSsa2ajtQCFYF9fgodISsCGw,
 				'Sammie Author',
 				'fiji.jpg', // this is a local image in the same folder as the js script
 				''
